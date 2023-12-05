@@ -14,37 +14,41 @@ Desenvolvemos uma Landing Page exclusiva para a nova cafeteria na Saul Elkind, p
 A Landing Page foi concebida com o propósito de divulgar informações atrativas e relevantes sobre a cafeteria recém-inaugurada na Saul Elkind. Criamos um ambiente online que destaca não apenas as promoções especiais, mas também os produtos e serviços distintos que tornam essa cafeteria única na região.
 
 ## Funcionalidades⚙️
-Página Inicial Impactante:
 
+* Página Inicial Impactante:
 Apresentação envolvente sobre a cafeteria, destacando sua atmosfera acolhedora e características distintivas.
-Promoções em Destaque:
 
+* Promoções em Destaque:
 Uma seção dinâmica dedicada a destacar as promoções atuais, projetada para atrair a atenção imediata dos visitantes.
-Produtos e Serviços em Evidência:
 
+* Produtos e Serviços em Evidência:
 Uma seção visualmente atrativa para exibir os produtos e serviços exclusivos oferecidos pela cafeteria, incentivando os visitantes a explorarem mais.
-Navegação Intuitiva:
 
+* Navegação Intuitiva:
 Links de navegação intuitivos que facilitam o acesso às diferentes seções da página, garantindo uma experiência fluida para os usuários.
-Call-to-Action Persuasiva:
 
+* Call-to-Action Persuasiva:
 Mensagens e elementos persuasivos incentivam os visitantes a conhecerem mais sobre os produtos e a participarem das promoções.
 
 ## Tecnologias Utilizadas🌐
 
-HTML5: Estruturação da página.
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
-CSS3: Estilização e layout.
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 
-JavaScript: Adição de funcionalidades dinâmicas.
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+<code><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></code>
+
+<code><img height="32" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></code>
 
 ## Funcionando
 
-<img scr="gif(1).gif" width="80%">
+![imagen](video.gif)
+
 
 ## Fontes Consultadas
-
-[Inteligência Artifcial](https://chat.openai.com/)    
+ 
 [youtube](https://youtu.be/RaITAxEdTDY?si=SYE6ZOLW1EYN8arR)  
 
 ## Autores
