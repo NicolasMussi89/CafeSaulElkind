@@ -2,8 +2,8 @@
    - [Descrição](#descri%C3%A7%C3%A3o)
    - [Introdução](#introdu%C3%A7%C3%A3o)
    - [Funcionalidades](#funcionalidades%EF%B8%8F)
-   - [Tecnologias Utilizadas]()
-   - [Funcionando]()
+   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+   - [Funcionando](#funcionando)
    - [Fontes Consultadas]()
    - [Autores]()
 
@@ -31,8 +31,11 @@ Call-to-Action Persuasiva:
 Mensagens e elementos persuasivos incentivam os visitantes a conhecerem mais sobre os produtos e a participarem das promoções.
 
 ## Tecnologias Utilizadas🌐
+
 HTML5: Estruturação da página.
+
 CSS3: Estilização e layout.
+
 JavaScript: Adição de funcionalidades dinâmicas.
 
 ## Funcionando
