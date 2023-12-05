@@ -1,12 +1,11 @@
 # Índice   
-   - [Descrição]
-   - [Introdução]
-   - [Funcionalidades]
-   - [codigos]
-   - [Tecnologias Utilizadas]
-   - [Funcionando]
-   - [Fontes Consultadas]
-   - [Autores]
+   - [Descrição](#descri%C3%A7%C3%A3o)
+   - [Introdução](#introdu%C3%A7%C3%A3o)
+   - [Funcionalidades](#funcionalidades%EF%B8%8F)
+   - [Tecnologias Utilizadas]()
+   - [Funcionando]()
+   - [Fontes Consultadas]()
+   - [Autores]()
 
 ## DESCRIÇÃO📜
 Desenvolvemos uma Landing Page exclusiva para a nova cafeteria na Saul Elkind, projetada para apresentar as promoções, produtos e serviços irresistíveis oferecidos por esse novo empreendimento. A página tem como foco proporcionar uma experiência envolvente aos potenciais consumidores da região, incentivando-os a explorar as ofertas exclusivas da cafeteria através do Instagram institucional.
@@ -30,3 +29,22 @@ Links de navegação intuitivos que facilitam o acesso às diferentes seções d
 Call-to-Action Persuasiva:
 
 Mensagens e elementos persuasivos incentivam os visitantes a conhecerem mais sobre os produtos e a participarem das promoções.
+
+## Tecnologias Utilizadas🌐
+HTML5: Estruturação da página.
+CSS3: Estilização e layout.
+JavaScript: Adição de funcionalidades dinâmicas.
+
+## Funcionando
+
+<img scr="gif(1).gif" width="80%">
+
+## Fontes Consultadas
+
+[Inteligência Artifcial](https://chat.openai.com/)    
+[youtube](https://youtu.be/RaITAxEdTDY?si=SYE6ZOLW1EYN8arR)  
+
+## Autores
+
+[Nicolas Kaiki](https://github.com/NicolasMussi89)
+
